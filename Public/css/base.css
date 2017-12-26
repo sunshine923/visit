@@ -1,0 +1,19 @@
+/*
+* @Author: 梁彪
+* @Date:   2017-12-13 10:19:08
+* @Last Modified by:   梁彪
+* @Last Modified time: 2017-12-13 18:06:11
+*/
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	box-sizing: border-box;
+	list-style: none;
+	font-family: '微软雅黑';
+}
+img{
+	width: 100%;
+	height: 100%;
+	float: left;
+}
